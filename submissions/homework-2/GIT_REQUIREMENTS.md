@@ -8,10 +8,10 @@ GitHub username: Carissa60
 
 | Command or workflow | What did you observe? | What was the user trying to accomplish? | What problem or risk did it address? |
 |---|---|---|---|
-| 1. | git status | Shows which files are change |Observing file changes that are not commited | Prevents files from being overwritten |
-| 2. | git diff | Shows line by line changes in the file current changes will be in green previous text will be red | Double check any changes | Prevent any mistakes before commiting |
-| 3. | git add | Move files for staging | To move only specific files | Ensure only specific files are moved for stagging |
-| 4. | git commit | Permanently save files in stagging | Create historical record of permanent changes made | Prevents losing file progess |
+| 1. git status | Shows which files are change |Observing file changes that are not commited | Prevents files from being overwritten |
+| 2. git diff | Shows line by line changes in the file current changes will be in green previous text will be red | Double check any changes | Prevent any mistakes before commiting |
+| 3. git add | Move files for staging | To move only specific files | Ensure only specific files are moved for stagging |
+| 4. git commit | Permanently save files in stagging | Create historical record of permanent changes made | Prevents losing file progess |
 
 ## 2. User Needs
 
