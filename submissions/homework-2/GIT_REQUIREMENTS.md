@@ -15,19 +15,19 @@ GitHub username: Carissa60
 
 ## 2. User Needs
 
-### UN-GIT-01 — Short descriptive title
+### UN-GIT-01 — View
 
 >  A student needs a way to know which documents have been recently changed since the last save because it is important not to make mistakes.
 
-### UN-GIT-02 — Short descriptive title
+### UN-GIT-02 — Review
 
 >  A student shall see all the changes made in a document to verify if everything is correct to prevent unwanted changes.
 
-### UN-GIT-03 — Short descriptive title
+### UN-GIT-03 — Add
 
 > A student shall pick specific files to add to the document this is to prevent uncessary files saved in final document. 
 
-### UN-GIT-04 — Short descriptive title
+### UN-GIT-04 — Save
 
 > A student must be able to add comments before saving documents this is to let other people understand the purpose of any changes.
 
